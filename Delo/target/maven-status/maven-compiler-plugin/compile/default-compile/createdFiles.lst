@@ -1,0 +1,8 @@
+com\delo\genericLib\IAutoConsts.class
+com\delo\genericLib\BaseTest.class
+com\delo\pages\CreateLeadPage.class
+com\delo\pages\HomePage.class
+com\delo\genericLib\FileLib.class
+com\delo\pages\LoginPage.class
+com\delo\pages\CustomerViewPage.class
+com\delo\genericLib\WebDriverCommonLIb.class
